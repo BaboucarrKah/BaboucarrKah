@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi — I'm Baboucarr 👋
+Recently graduated in Cybersecurity with a strong interest in penetration testing, cyber defense, automation, and cloud security. I work on practical projects that develop skills in ethical hacking, security analysis, and defensive strategies.
 
-<!--
-**BaboucarrKah/BaboucarrKah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills / Focus Areas
+- **Penetration Testing:** Assessing applications, networks, and systems to identify vulnerabilities ethically.
+- **Cyber Defense:** Implementing defensive measures, log analysis, and monitoring.
+- **Scripting & Automation:** Automating scans, log and data analysis, and security tools (Python, Bash, PowerShell).
+- **Cloud Security:** Testing and implementing security best practices for cloud environments (AWS, Azure).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Contact
+- Email: Baboucarrkah@icloud.com/contact.bkboomin@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/baboucarr-kah-0207a6249/ 
+- GitHub: https://github.com/BaboucarrKah
